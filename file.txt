@@ -1,1 +1,8 @@
 I am looking forward to playing with GitHub's desktop app.
+
+I already have some experience with the CLI on Windows and Mac. 
+
+I am now adding this text with Visual Studio Code combined
+with GitHub Desktop. 
+
+I am going to commit these changes then merge the branches once more.

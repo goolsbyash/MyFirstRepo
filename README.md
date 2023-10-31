@@ -2,7 +2,7 @@
 
 ### This is my first time creating a Git repository and I am loving every step of the process so far.
 
-I am so grateful for this experience with Per Scholas. Undoubtly, I will learn a lot of new
+I am so grateful for this experience with Per Scholas. Undoubtedly, I will learn a lot of new
 skills (programming related & professional), but I am most hopeful that I will gain some new friends and/or future colleagues.
 
 ----
